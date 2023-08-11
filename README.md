@@ -1,2 +1,2 @@
-# Olympus.github.io
+# Olympus
 My personal website
