@@ -1,2 +1,2 @@
 # Olympus
-My personal website
+Screenshots of my website
